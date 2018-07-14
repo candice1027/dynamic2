@@ -1,0 +1,6 @@
+
+.token.selector,
+.token.punctuation,
+.token.property{
+    color: #333;
+}

@@ -1,0 +1,10 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.content {
+    width: 500px;
+    float: left;
+    height: 100%;
+}
+
